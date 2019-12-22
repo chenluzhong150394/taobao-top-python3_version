@@ -336,3 +336,4 @@ from top.api.rest.WlbWlborderGetRequest import WlbWlborderGetRequest
 from top.api.rest.WlbOwnstoreAreasChangeRequest import WlbOwnstoreAreasChangeRequest
 from top.api.rest.PictureReplaceRequest import PictureReplaceRequest
 from top.api.rest.MarketingTagsGetRequest import MarketingTagsGetRequest
+from top.api.rest.TbkScOrderDetailsGetRequest import TbkScOrderDetailsGetRequest
