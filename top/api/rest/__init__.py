@@ -337,3 +337,12 @@ from top.api.rest.WlbOwnstoreAreasChangeRequest import WlbOwnstoreAreasChangeReq
 from top.api.rest.PictureReplaceRequest import PictureReplaceRequest
 from top.api.rest.MarketingTagsGetRequest import MarketingTagsGetRequest
 from top.api.rest.TbkScOrderDetailsGetRequest import TbkScOrderDetailsGetRequest
+from top.api.rest.TopAuthTokenCreateRequest import TopAuthTokenCreateRequest
+from top.api.rest.TopIpoutGetRequest import TopIpoutGetRequest
+from top.api.rest.TbkPrivilegeGetRequest import TbkPrivilegeGetRequest
+from top.api.rest.TbkSpreadGetRequest import TbkSpreadGetRequest
+from top.api.rest.TbkScTpwdConvertRequest import TbkScTpwdConvertRequest
+from top.api.rest.TbkTpwdCreateRequest import TbkTpwdCreateRequest
+from top.api.rest.TbkScActivitylinkToolgetRequest import TbkScActivitylinkToolgetRequest
+from top.api.rest.TbkScPublisherInfoSaveRequest import TbkScPublisherInfoSaveRequest
+
